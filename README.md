@@ -24,10 +24,10 @@ Ethereum AXS y SLP. Actualmente es la colección de NFT más cara con más
 de $ 42 millones en ventas en junio de 2021. **Fuente** => Omkar Godbole July 6, 2021 [Articulo](https://finance.yahoo.com/news/axie-profiting-booming-nft-economy-183813777.html)
 
 
-## 2.- Como se Juega (Crear Cuentas)
+## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
-- Paso 1: Debes crear una cuenta en este enlace 
-- Paso 2: Debes crear una cuenta binance 
+- Paso 1: Debes crear una cuenta en este enlace 🛠️🛠️🛠️🛠️
+- Paso 2: Debes crear una cuenta binance 🛠️🛠️🛠️🛠️
 
 
 ## 3.- Como se Juega (Reglas del juego)
