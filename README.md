@@ -1,6 +1,6 @@
 # 🕹️AXIES🕹️ el Juegaoso 
 Bienvenido a este post, donde de manera constante podre ir documentando desde 0 a un nivel 
-considerable todo lo que se deba saber de este Juego que una tecnología Blockchain para 
+considerable todo lo que se deba saber de este Juego que usa tecnología Blockchain para 
 ser manejado de manera monetaria por los jugadores y asi como lo indica ganar dinero con este invento. 
 
 ## Contenido 
