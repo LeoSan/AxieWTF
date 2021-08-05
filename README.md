@@ -30,7 +30,7 @@ de $ 42 millones en ventas en junio de 2021. **Fuente** => Omkar Godbole July 6,
 - Podemos **Acceder** a su pagina oficial ->  [axieinfinity](https://axieinfinity.com/)
 
 ## 1. 1. Que es un Mendigo AXI
-Los Axi son animales virtuales estos se dividen en 9 Clases 
+Los Axie son animales virtuales estos se dividen en 9 Clases 
 - Tipo Plantas (Plant) => Es el que tiene mas vida y se usan para recibir los ataques. 
 - Tipo Reptil (Reptile) =>
 - Tipo Ave (Bird) => 
@@ -47,7 +47,7 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 
 >PDX2:  Cada Carta tiene un % de ataque y cada carta tiene efectos secundarios puedes curar, puedes envenenarlos, puedes afectar a tu equipo o al contricante. 
 
->PDX3:  Es un juego de estrategia por asi decirlo no mas que el ajedrez pero lo que puedo señalar es que un Axi nunca es mejor que otro ya que depende de la estrategia. 
+>PDX3:  Es un juego de estrategia por asi decirlo no mas que el ajedrez pero lo que puedo señalar es que un Axie nunca es mejor que otro ya que depende de la estrategia. 
 
 >PDX4:  Tu animalejo solo llega hasta el level 25 de Experiencia, pero en la arena es bueno indicar que solo te cortejan con contricante del mismo nivel. 
 
@@ -56,22 +56,22 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 - Investigando 
 
 
-## 1. 3. Que es un **AXI** (Cartas)
+## 1. 3. Que es un **AXIE** (Cartas)
 
->Cada Axi tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+>Cada Axie tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
 
 =======
 
 ## 1. 3. Que es un **AXI** (Cartas)
 
->Cada Axi tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+>Cada Axie tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
 
 
 Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
-- Paso 1: Debes crear una cuenta Ronin WAllet en este enlace ->[Ronin](https://skymavis.com/wallet) Ya que es la billetera oficial de Axies para comprar los Axis
+- Paso 1: Debes crear una cuenta Ronin WAllet en este enlace ->[Ronin](https://skymavis.com/wallet) Ya que es la billetera oficial de Axies para comprar los Axies
 - Paso 2: Debes crear una cuenta MetaMask WAllet en este enlace ->[MetaMask](https://www.youtube.com/watch?v=TUJTdGItehg&ab_channel=CriptoEsfera)  🛠️🛠️🛠️🛠️
 - Paso 3: Debes crear una cuenta binance [Binance](https://www.binance.com/es) 
 
@@ -80,10 +80,10 @@ Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/m
 
 En resumen Axies tiene dos modalidades modo historia y modo Arena, consiste construir tu pokemon de cierta manera decirlo 
 cuidadndo sus habilidades, ya que son muchos axis que existen y tambien existen por elementos, esto genera todo un mundo
-de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes aparear axis y generar nuevos y unicos Axis (Pokemon)
+de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes aparear axis y generar nuevos y unicos Axies (Pokemon)
  
 ## 4.- Como se Juega (Modo Arena) 
-- Paso 1: Debemos formar un equipo de tres axis, podemos consultar esta página para ir leyendo y armar nuestro axie mas potente y ultapenetrante -> [Axie Zone](https://axie.zone/) 
+- Paso 1: Debemos formar un equipo de tres axies, podemos consultar esta página para ir leyendo y armar nuestro axies mas potente y ultrapenetrantes -> [Axie Zone](https://axie.zone/) 
 ```html	
 - Debemos ubicar la sesión Axie Finder
 - Podemos filtrar el axie que queremos y nos redirecciona al [Market Place de Axie](https://marketplace.axieinfinity.com/)
@@ -91,11 +91,11 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ```		
 - Paso 2: Debemos buscar una estrategia : 
 ```html		
-- Tenemos la  1era basica es => Axi de Ataque **Tipo Ave** (Rapido Ataque + Poca Vida) + Axi de  Soporte **Bestia** (Vida + Soporte) + Axi de Tanque **Planta** (Aguante Maximo) 
-- Tenemos la  2da  basica es => Axi de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axi de Soporte **Bestia** (Vida y Soporte) + Axi de Tanque **Planta** (Aguante Maximo) 
-- Tenemos la  3era basica es => Axi de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axi de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axi de Tanque **Planta** (Aguante Maximo) 
-- Tenemos la  4ta  basica es => Axi de Ataque **Tipo Reptil** (Menos Rapido + Mas Vida + Mata a las Aves) + Axi de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axi de Tanque **Planta** (Aguante Maximo)
-- Tenemos la  5ta  basica es => Axi de Tanque **Planta** (Aguante Maximo)  + Axi de Tanque **Planta** (Aguante Maximo)  + Axi de Tanque **Planta** (Aguante Maximo) => Estragegia para durar mucho en la batalla
+- Tenemos la  1era basica es => Axie de Ataque **Tipo Ave** (Rapido Ataque + Poca Vida) + Axie de  Soporte **Bestia** (Vida + Soporte) + Axie de Tanque **Planta** (Aguante Maximo) 
+- Tenemos la  2da  basica es => Axie de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axie de Soporte **Bestia** (Vida y Soporte) + Axie de Tanque **Planta** (Aguante Maximo) 
+- Tenemos la  3era basica es => Axie de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axie de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axie de Tanque **Planta** (Aguante Maximo) 
+- Tenemos la  4ta  basica es => Axie de Ataque **Tipo Reptil** (Menos Rapido + Mas Vida + Mata a las Aves) + Axie de Ataque **Tipo Pez** (Menos Rapido + Mas Vida) + Axie de Tanque **Planta** (Aguante Maximo)
+- Tenemos la  5ta  basica es => Axie de Tanque **Planta** (Aguante Maximo)  + Axie de Tanque **Planta** (Aguante Maximo)  + Axie de Tanque **Planta** (Aguante Maximo) => Estragegia para durar mucho en la batalla
 ```
 - Paso 3: Dependiendo  de tu estrategias te vas apoyar mucho en buscar el tipo de Axie, que tipo de build debe tener Etc. 
 
@@ -132,7 +132,7 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ## 12 Glosario  
 
 + A
-	- Axis
+	- Axies
 + B
 	- Blockchain
 	- Build
