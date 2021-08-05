@@ -88,6 +88,10 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ## 7.- Videos Explicativos  
 - Resumen Video que es Axies [Resumen](https://www.youtube.com/watch?v=4VZtDP07rjk)
 
+## 8 - Recomendaciones
+
+## 9 Grupos y Canales Recomendados
+
 ## Glosario  
 
 + A
