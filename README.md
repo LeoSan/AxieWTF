@@ -6,9 +6,9 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 ## Contenido 
 
 1. Que es **AXIES**
-1. 1. Que es **AXI**
-1. 2. Que es un **AXI** (Cuerpo)
-1. 3. Que es un **AXI** (Cartas)
+1. 1. Que es **AXIE**
+1. 2. Que es un **AXIE** (Cuerpo)
+1. 3. Que es un **AXIE** (Cartas)
 3. Como se Juega (Crear Cuentas)
 4. Como se Juega (Reglas del juego) 
 5. Como se Juega (Modo Arena) 
