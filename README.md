@@ -7,16 +7,18 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 
 1. Que es **AXIES**
 1. 1. Que es **AXI**
+1. 2. Que es un **AXI** (Cuerpo)
+1. 3. Que es un **AXI** (Cartas)
 3. Como se Juega (Crear Cuentas)
 4. Como se Juega (Reglas del juego) 
 5. Como se Juega (Modo Arena) 
 6. Como se Juega (Modo Historia)
-7. Beca 🕹️ AXIES Infinity
-8. Videos Explicativos  
-9. Estafa
-10. Ventaja 
- 
-
+7. Money - Moooney -> Mother Focas 
+8. Si te da Flojera Leer - Videos Explicativos 
+9. Recomendaciones
+10. Beca 🕹️ AXIES Infinity
+11. Grupos y Canales Recomendados
+12- Glosario
 
 ## 1.- Qué es **Axies**
 
@@ -50,7 +52,14 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 >PDX4:  Tu animalejo solo llega hasta el level 25 de Experiencia, pero en la arena es bueno indicar que solo te cortejan con contricante del mismo nivel. 
 
 
+## 1. 2. Que es un **AXI** (Cuerpo)
+- Investigando 
 
+## 1. 3. Que es un **AXI** (Cartas)
+
+>Cada Axi tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+
+Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
@@ -82,28 +91,35 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ```
 - Paso 3: Dependiendo  de tu estrategias te vas apoyar mucho en buscar el tipo de Axie, que tipo de build debe tener Etc. 
 
+## 7. Money - Moooney -> Mother Focas 
+- Paso 1: Debes comprender que es un SLP (Smooth Love Potion) Esta madre es lo que se vende y te da el dinero que luego lo pasas a tu bitcoin favorito y luego a tu moneda favorita
+- Paso 2: Cada día de Juego en el modo aventura sacas 150 SLP y por cada batalla ganada sacas de 10 a 18 SLP. 
+- Paso 3: La idea general es sacar el mayor SLP posible por día en promedio 300 SLP si te va bien son unos 30 a 45 Dolares Diarios solo jugando. 
+- Paso 4: Manten o crea tus cuentas para hacer los intercambios monetarios Revisa este Enlace para que puedas ver cuanto vale un SLP en dolares [SLP](https://coinmarketcap.com/converter/)
+- Paso 5: Aqui te indico a la fecha de hoy 5 / Agosto / 2021 ![]() 
 
-
-
-## 7.- Videos Explicativos  
+## 8. Si te da Flojera Leer - Videos Explicativos 
 - Resumen Video que es Axies [Resumen](https://www.youtube.com/watch?v=4VZtDP07rjk)
 
-## 8 - Recomendaciones
+## 9- Recomendaciones
 
-1.  Evitar el uso de multi cuenta: Son varias maneras de tener un baneo, la mas omún es el uso de varias cuenta en un mismo dispositivo.
-1.  Evitar uso de wifi: ya que haber mas personas dentrode un mismo lugar y saliendo por una misma ip publica, puede que el sistema detecte usode multicuenta. 
-1. Evitar el uso de una misma cuenta en un diferentes dispositivos. Es recomendable que siempre jugar en el mismo dispositivo.
-1. Abuso del bread de axies: evitar solo crear granjas de axies para solo vender y no disfrutar el juego.
-1. Evitar traspaso de axies y huevos en un solo día ya que el sistema lo consideraría comoun acto sospechoso. 
+- Evitar el uso de multi cuenta: Son varias maneras de tener un baneo, la mas omún es el uso de varias cuenta en un mismo dispositivo.
+- Evitar uso de wifi: ya que haber mas personas dentrode un mismo lugar y saliendo por una misma ip publica, puede que el sistema detecte usode multicuenta. 
+- Evitar el uso de una misma cuenta en un diferentes dispositivos. Es recomendable que siempre jugar en el mismo dispositivo.
+- Abuso del bread de axies: evitar solo crear granjas de axies para solo vender y no disfrutar el juego.
+- Evitar traspaso de axies y huevos en un solo día ya que el sistema lo consideraría comoun acto sospechoso. 
 
 ... en contrucción
 
-## 9 Grupos y Canales Recomendados
+## 10. Beca 🕹️ AXIES Infinity
 
-tutorial para iniciante: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace") Youtuber Cripto VJ  [Enlace](http://https://www.youtube.com/channel/UC2trT0q9z_qT7WFT-m-O1Ww "Enlace")
+## 11 Grupos y Canales Recomendados
+
+- tutorial para iniciarte: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace")
+- Youtuber Cripto VJ  [Enlace](http://https://www.youtube.com/channel/UC2trT0q9z_qT7WFT-m-O1Ww "Enlace")
 
 
-## Glosario  
+## 12 Glosario  
 
 + A
 	- Axis
