@@ -7,6 +7,8 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 
 1. Que es **AXIES**
 1. 1. Que es **AXI**
+1. 2. Que es un **AXI** (Cuerpo)
+1. 3. Que es un **AXI** (Cartas)
 3. Como se Juega (Crear Cuentas)
 4. Como se Juega (Reglas del juego) 
 5. Como se Juega (Modo Arena) 
@@ -50,7 +52,14 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 >PDX4:  Tu animalejo solo llega hasta el level 25 de Experiencia, pero en la arena es bueno indicar que solo te cortejan con contricante del mismo nivel. 
 
 
+## 1. 2. Que es un **AXI** (Cuerpo)
+- Investigando 
 
+## 1. 3. Que es un **AXI** (Cartas)
+
+>Cada Axi tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+
+Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
