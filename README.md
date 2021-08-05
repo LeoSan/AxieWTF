@@ -103,8 +103,10 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - Paso 1: Debes comprender que es un SLP (Smooth Love Potion) Esta madre es lo que se vende y te da el dinero que luego lo pasas a tu bitcoin favorito y luego a tu moneda favorita
 - Paso 2: Cada día de Juego en el modo aventura sacas 150 SLP y por cada batalla ganada sacas de 10 a 18 SLP. 
 - Paso 3: La idea general es sacar el mayor SLP posible por día en promedio 300 SLP si te va bien son unos 30 a 45 Dolares Diarios solo jugando. 
-- Paso 4: Manten o crea tus cuentas para hacer los intercambios monetarios Revisa este Enlace para que puedas ver cuanto vale un SLP en dolares [SLP](https://coinmarketcap.com/converter/)
-- Paso 5: Aqui te indico a la fecha de hoy 5 / Agosto / 2021 ![]() 
+- Paso 4: Crea tus cuentas para hacer los intercambios monetarios, Revisa este [Enlace](https://coinmarketcap.com/converter/), para que puedas ver cuanto vale un SLP en dolares 
+- Paso 5: Aqui te indico a la fecha de hoy 5 / Agosto / 2021 ![Imagen Resumen](https://github.com/LeoSan/AxieWTF/blob/main/DineroReal/DineroReal.png) 
+- Paso 6: Sencillo mi joven padawan, saquemos la cuenta, 300SLP X 0.1996$USD = 59.88$USD Dolares Diarios, Jgando de 3 a 4 horas tranquilo 
+- Paso 7: No esta de mas recordarte todo depende de tus Animalejos armados, Tu estrategia, tu pasión y paciencia, Te recuedo que el mundo del BitCoin es volatil unos dias estas en las nubes y unos dias esta para el perro ASI que toma tus precauciones. 
 
 ## 8. Si te da Flojera Leer - Videos Explicativos 
 - Resumen Video que es Axies [Resumen](https://www.youtube.com/watch?v=4VZtDP07rjk)
