@@ -131,6 +131,7 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 1.  Canales
 - tutorial para iniciarte: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace")
 - Youtuber Cripto VJ  [Enlace](http://https://www.youtube.com/channel/UC2trT0q9z_qT7WFT-m-O1Ww "Enlace")
+- Concepto Básico [Enlace](https://www.youtube.com/watch?v=oQS3LdrRluo "Enlace")
 
 2. -Discord 
 - Axies infinitive Oficial - [Enlace](https://discord.com/invite/axie "Enlace")
@@ -161,7 +162,7 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - [Windows](https://axieinfinity.com/downloads/axie-infinity-windows-latest.zip "Windows")
 
 
-## GUIA OFICILA
+## GUIA OFICIAL
 
 - [Enlace](https://axie.substack.com/p/axie-infinity-community-alpha-guide "Enlace")
 
