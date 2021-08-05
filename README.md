@@ -1,4 +1,4 @@
-# 🕹️AXIES🕹️ el Juegaso 
+# 🕹️AXIES🕹️ el Juegaso que te ayuda a ganar dinero fácil
 Bienvenido a este post, donde de manera constante podre ir documentando desde 0 a un nivel 
 considerable todo lo que se deba saber de este Juego que usa tecnología Blockchain para 
 ser manejado de manera monetaria por los jugadores y asi como lo indica ganar dinero con este invento. 
@@ -89,6 +89,14 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - Resumen Video que es Axies [Resumen](https://www.youtube.com/watch?v=4VZtDP07rjk)
 
 ## 8 - Recomendaciones
+
+1.  Evitar el uso de multi cuenta: Son varias maneras de tener un baneo, la mas omún es el uso de varias cuenta en un mismo dispositivo.
+1.  Evitar uso de wifi: ya que haber mas personas dentrode un mismo lugar y saliendo por una misma ip publica, puede que el sistema detecte usode multicuenta. 
+1. Evitar el uso de una misma cuenta en un diferentes dispositivos. Es recomendable que siempre jugar en el mismo dispositivo.
+1. Abuso del bread de axies: evitar solo crear granjas de axies para solo vender y no disfrutar el juego.
+1. Evitar traspaso de axies y huevos en un solo día ya que el sistema lo consideraría comoun acto sospechoso. 
+
+... en contrucción
 
 ## 9 Grupos y Canales Recomendados
 
