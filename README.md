@@ -160,3 +160,8 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 
 - [Windows](https://axieinfinity.com/downloads/axie-infinity-windows-latest.zip "Windows")
 
+
+## GUIA OFICILA
+
+- [Enlace](https://axie.substack.com/p/axie-infinity-community-alpha-guide "Enlace")
+
