@@ -47,6 +47,10 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 
 >PDX3:  Es un juego de estrategia por asi decirlo no mas que el ajedrez pero lo que puedo señalar es que un Axi nunca es mejor que otro ya que depende de la estrategia. 
 
+>PDX4:  Tu animalejo solo llega hasta el level 25 de Experiencia, pero en la arena es bueno indicar que solo te cortejan con contricante del mismo nivel. 
+
+
+
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
