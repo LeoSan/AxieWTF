@@ -104,7 +104,7 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - Paso 2: Cada día de Juego en el modo aventura sacas 150 SLP y por cada batalla ganada sacas de 10 a 18 SLP. 
 - Paso 3: La idea general es sacar el mayor SLP posible por día en promedio 300 SLP si te va bien son unos 30 a 45 Dolares Diarios solo jugando. 
 - Paso 4: Manten o crea tus cuentas para hacer los intercambios monetarios Revisa este Enlace para que puedas ver cuanto vale un SLP en dolares [SLP](https://coinmarketcap.com/converter/)
-- Paso 5: Aqui te indico a la fecha de hoy 5 / Agosto / 2021 ![]() 
+- Paso 5: Aqui te indico a la fecha de hoy 5 / Agosto / 2021 ![Imagen Resumen](https://github.com/LeoSan/AxieWTF/blob/main/DineroReal/DineroReal.png) 
 
 ## 8. Si te da Flojera Leer - Videos Explicativos 
 - Resumen Video que es Axies [Resumen](https://www.youtube.com/watch?v=4VZtDP07rjk)
