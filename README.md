@@ -6,14 +6,15 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 ## Contenido 
 
 1. Que es **AXIES**
-2. Como se Juega (Crear Cuentas)
-3. Como se Juega (Reglas del juego) 
-4. Como se Juega (Modo Arena) 
-5. Como se Juega (Modo Historia)
-6. Beca 🕹️ AXIES Infinity
-7. Videos Explicativos  
-8. Estafa
-9. Ventaja 
+1. 1. Que es **AXI**
+3. Como se Juega (Crear Cuentas)
+4. Como se Juega (Reglas del juego) 
+5. Como se Juega (Modo Arena) 
+6. Como se Juega (Modo Historia)
+7. Beca 🕹️ AXIES Infinity
+8. Videos Explicativos  
+9. Estafa
+10. Ventaja 
  
 
 
@@ -25,6 +26,26 @@ Ethereum AXS y SLP. Actualmente es la colección de NFT más cara con más
 de $ 42 millones en ventas en junio de 2021. **Fuente** => Omkar Godbole July 6, 2021 [Articulo](https://finance.yahoo.com/news/axie-profiting-booming-nft-economy-183813777.html)
 
 - Podemos **Acceder** a su pagina oficial ->  [axieinfinity](https://axieinfinity.com/)
+
+## 1. 1. Que es un Mendigo AXI
+Los Axi son animales virtuales estos se dividen en 9 Clases 
+- Tipo Plantas (Plant) => Es el que tiene mas vida y se usan para recibir los ataques. 
+- Tipo Reptil (Reptile) =>
+- Tipo Ave (Bird) => 
+- Tipo Acuatico (Aquctic)=>
+- Tipo Amanecer  (Dawn)=> 
+- Tipo Bestia (Beast) =>
+- Tipo Bicho (Bug) => 
+- Tipo Meca (Mecanico) =>
+- Tipo Oscuridad (Dusk) => 
+
+>Nota: Cada Pokemon abro comillas, se deben agrupar en tres con una estrategia de ataque,defensa, soporte, cada Axie tiene 6 habilidades que son partes de su cuerpo, esto le da una habilidad al mendigo abro comillas Pokemon, Ojo no es Pokemon es mucho mejor porque te genera Dinero ya basta de jugar esa mierda llamada Pokemon GO. 
+
+>PD: Cada parte del cuerpo es una habilidad que se ve como una carta y cada carta consume Mana magia por asi decirlo
+
+>PDX2:  Cada Carta tiene un % de ataque y cada carta tiene efectos secundarios puedes curar, puedes envenenarlos, puedes afectar a tu equipo o al contricante. 
+
+>PDX3:  Es un juego de estrategia por asi decirlo no mas que el ajedrez pero lo que puedo señalar es que un Axi nunca es mejor que otro ya que depende de la estrategia. 
 
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
