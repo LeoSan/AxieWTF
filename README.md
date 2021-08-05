@@ -100,6 +100,9 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 
 ## 9 Grupos y Canales Recomendados
 
+tutorial para iniciante: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace") Youtuber Cripto VJ  [Enlace](http://https://www.youtube.com/channel/UC2trT0q9z_qT7WFT-m-O1Ww "Enlace")
+
+
 ## Glosario  
 
 + A
