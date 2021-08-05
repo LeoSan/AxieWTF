@@ -118,15 +118,25 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - Evitar el uso de una misma cuenta en un diferentes dispositivos. Es recomendable que siempre jugar en el mismo dispositivo.
 - Abuso del bread de axies: evitar solo crear granjas de axies para solo vender y no disfrutar el juego.
 - Evitar traspaso de axies y huevos en un solo día ya que el sistema lo consideraría comoun acto sospechoso. 
-
-... en contrucción
+- Evitar jugar mas de 12 o 24horas porque el sistema lo puede considerar inteligencia articial o bot
+- Evitar la manipulacion de la zona horaria para generar  las quest diarias.
+- Evitar usar VPN
+- Transferir uso de Axies de una cuenta a otra para manipular las ganancias SLP
+- No puedes prestar tu cuenta.
 
 ## 10. Beca 🕹️ AXIES Infinity
 
 ## 11 Grupos y Canales Recomendados
 
+1.  Canales
 - tutorial para iniciarte: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace")
 - Youtuber Cripto VJ  [Enlace](http://https://www.youtube.com/channel/UC2trT0q9z_qT7WFT-m-O1Ww "Enlace")
+
+2. -Discord 
+- Axies infinitive Oficial - [Enlace](https://discord.com/invite/axie "Enlace")
+- AROMAZ ESPAÑOL - [Enlace](https://discord.com/invite/AROMAZ "Enlace")
+
+3.  Telegram
 
 
 ## 12 Glosario  
