@@ -13,7 +13,7 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 4. Como se Juega (Reglas del juego) 
 5. Como se Juega (Modo Arena) 
 6. Como se Juega (Modo Historia)
-7. Money - Moooney -> Mother Focas 
+7. Di Di Dinero - Nenes -> Mother Focas 
 8. Si te da Flojera Leer - Videos Explicativos 
 9. Recomendaciones
 10. Beca 🕹️ AXIES Infinity
@@ -55,9 +55,17 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 ## 1. 2. Que es un **AXI** (Cuerpo)
 - Investigando 
 
+
 ## 1. 3. Que es un **AXI** (Cartas)
 
 >Cada Axi tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+
+=======
+
+## 1. 3. Que es un **AXI** (Cartas)
+
+>Cada Axi tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+
 
 Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
 
@@ -91,7 +99,7 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ```
 - Paso 3: Dependiendo  de tu estrategias te vas apoyar mucho en buscar el tipo de Axie, que tipo de build debe tener Etc. 
 
-## 7. Money - Moooney -> Mother Focas 
+## 7. Di Di Dinero - Nenes -> Mother Focas 
 - Paso 1: Debes comprender que es un SLP (Smooth Love Potion) Esta madre es lo que se vende y te da el dinero que luego lo pasas a tu bitcoin favorito y luego a tu moneda favorita
 - Paso 2: Cada día de Juego en el modo aventura sacas 150 SLP y por cada batalla ganada sacas de 10 a 18 SLP. 
 - Paso 3: La idea general es sacar el mayor SLP posible por día en promedio 300 SLP si te va bien son unos 30 a 45 Dolares Diarios solo jugando. 
