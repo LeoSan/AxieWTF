@@ -1,4 +1,4 @@
-# 🕹️AXIES🕹️ el Juegaoso 
+# 🕹️AXIES🕹️ el Juegaso 
 Bienvenido a este post, donde de manera constante podre ir documentando desde 0 a un nivel 
 considerable todo lo que se deba saber de este Juego que usa tecnología Blockchain para 
 ser manejado de manera monetaria por los jugadores y asi como lo indica ganar dinero con este invento. 
@@ -61,7 +61,7 @@ Los Axi son animales virtuales estos se dividen en 9 Clases
 
 ## 3.- Como se Juega (Reglas del juego)
 
-En resumen Axies tiene dos modalidades modo historia y modo Arena, consiste construir tu pokemo de cierta manera decirlo 
+En resumen Axies tiene dos modalidades modo historia y modo Arena, consiste construir tu pokemon de cierta manera decirlo 
 cuidadndo sus habilidades, ya que son muchos axis que existen y tambien existen por elementos, esto genera todo un mundo
 de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes aparear axis y generar nuevos y unicos Axis (Pokemon)
  
