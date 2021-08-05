@@ -152,3 +152,11 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 + G 
 + H 
 
+## Descargas del Apps
+
+- [Android](http://https://axieinfinity.com/downloads/axie-infinity-android-latest.apk "Android")
+
+- [MacOS](https://axieinfinity.com/downloads/axie-infinity-macos-latest.zip "MacOS")
+
+- [Windows](https://axieinfinity.com/downloads/axie-infinity-windows-latest.zip "Windows")
+
