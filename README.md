@@ -4,6 +4,7 @@ considerable todo lo que se deba saber de este Juego que usa tecnología Blockch
 ser manejado de manera monetaria por los jugadores y asi como lo indica ganar dinero con este invento. 
 
 ## Contenido 
+
 1. Que es **AXIES**
 2. Como se Juega (Crear Cuentas)
 3. Como se Juega (Reglas del juego) 
@@ -23,11 +24,14 @@ estudio vietnamita​ de Sky Mavis, que utiliza la criptomoneda basada en
 Ethereum AXS y SLP. Actualmente es la colección de NFT más cara con más 
 de $ 42 millones en ventas en junio de 2021. **Fuente** => Omkar Godbole July 6, 2021 [Articulo](https://finance.yahoo.com/news/axie-profiting-booming-nft-economy-183813777.html)
 
+- Podemos **Acceder** a su pagina oficial ->  [axieinfinity](https://axieinfinity.com/)
+
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
-- Paso 1: Debes crear una cuenta en este enlace 🛠️🛠️🛠️🛠️
-- Paso 2: Debes crear una cuenta binance 🛠️🛠️🛠️🛠️
+- Paso 1: Debes crear una cuenta Ronin WAllet en este enlace ->[Ronin](https://skymavis.com/wallet) Ya que es la billetera oficial de Axies para comprar los Axis
+- Paso 2: Debes crear una cuenta MetaMask WAllet en este enlace ->[MetaMask](https://www.youtube.com/watch?v=TUJTdGItehg&ab_channel=CriptoEsfera)  🛠️🛠️🛠️🛠️
+- Paso 3: Debes crear una cuenta binance [Binance](https://www.binance.com/es) 
 
 
 ## 3.- Como se Juega (Reglas del juego)
