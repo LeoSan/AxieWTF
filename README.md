@@ -5,7 +5,7 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 
 ## Contenido 
 
-1. Que es **AXIES**
+[1. Que es **AXIES**](## 1.- Qué es **Axies**)
 1. 1. Que es **AXIE**
 1. 2. Que es un **AXIE** (Cuerpo)
 1. 3. Que es un **AXIE** (Cartas)
