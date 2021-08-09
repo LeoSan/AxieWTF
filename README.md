@@ -87,6 +87,10 @@ Estas caracteristicas son:
 - Habilidad: mejora en combos/chains
 - Velocidad: el orden de ataque  
 
+>PD: Estes conjuntos de habilidad no se pueden cmabiar vienen de nacimiento con el axie adquirido. 
+**Ejemplo de un Axie Habilidad**
+![Cuerpo](https://github.com/LeoSan/AxieWTF/blob/main/Cuerpo/EjemploCuerpoHabilidad.png)
+
 
 Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
 
