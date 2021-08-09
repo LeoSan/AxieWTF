@@ -87,7 +87,7 @@ Estas caracteristicas son:
 - Habilidad: mejora en combos/chains
 - Velocidad: el orden de ataque  
 
->PD: Estes conjuntos de habilidad no se pueden cmabiar vienen de nacimiento con el axie adquirido. 
+>PD: Estes conjuntos de habilidades no se pueden cambiar vienen de nacimiento con el axie adquirido. 
 **Ejemplo de un Axie Habilidad**
 ![Cuerpo](https://github.com/LeoSan/AxieWTF/blob/main/Cuerpo/EjemploCuerpoHabilidad.png)
 
