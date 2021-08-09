@@ -11,6 +11,7 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 1. 1. Que es **AXIE**
 1. 2. Que es un **AXIE** (Cuerpo)
 1. 3. Que es un **AXIE** (Cartas)
+1. 4. Que es un **AXIE** (Habilidad)
 3. Como se Juega (Crear Cuentas)
 4. Como se Juega (Reglas del juego) 
 5. Como se Juega (Modo Arena) 
@@ -75,9 +76,16 @@ Ejemplo de un Axie Acuatico
 
 =======
 
-## 1. 3. Que es un **AXI** (Cartas)
+1. 4. Que es un **AXIE** (Habilidad)
 
->Cada Axie tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+>Cada Axie tiene un conjunto de habilidades de nacimiento. Esta madre debes saber hasta de genetica, cada axie se puede 
+dividir en puros e hibridos, todo depende de tu modo de juego, puedes crear un axie puro!!  spoiler!! (son super costoso) o tener un axie decente un semi hibrido (Accesible a nuestro bolsillo) o super hibridos (Super baratos). 
+Estas caracteristicas son: 
+
+- Salud: la vida del axie
+- Moral: la posibilidad de dar golpe crítico
+- Habilidad: mejora en combos/chains
+- Velocidad: el orden de ataque  
 
 
 Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
