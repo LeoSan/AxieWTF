@@ -1,4 +1,6 @@
-# 🕹️AXIES🕹️ el Juegaso que te ayuda a ganar dinero fácil
+![Axies](https://i.blogs.es/067b7e/axie-infinity-portada/1366_2000.jpg)
+
+# 🕹️AXIES🕹️ el Juegaso que te ayuda a ganar dinero 
 Bienvenido a este post, donde de manera constante podre ir documentando desde 0 a un nivel 
 considerable todo lo que se deba saber de este Juego que usa tecnología Blockchain para 
 ser manejado de manera monetaria por los jugadores y asi como lo indica ganar dinero con este invento. 
@@ -53,8 +55,19 @@ Los Axie son animales virtuales estos se dividen en 9 Clases
 
 
 ## 1. 2. Que es un **AXI** (Cuerpo)
-- Investigando 
+Es importante aclarar que cada axie viene con seis (6) partes principales de su cuerpo, el proposito de esto; es que cada parte tiene una habilidad especial y esta tiene una carta asignada que genera un poder especial para combatir a otros axies. 
 
+Describo cada parte del cuerpo: 
+
+1.  Ojos 
+2.  Cuernos
+3.  Orejas
+4.  Cola
+5.  Boca
+6.  Espalda 
+
+Ejemplo de un Axie Acuatico 
+![Cuerpo](https://github.com/LeoSan/AxieWTF/blob/main/Cuerpo/EjemploCuerpo.png)
 
 ## 1. 3. Que es un **AXIE** (Cartas)
 
@@ -131,6 +144,7 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 1.  Canales
 - tutorial para iniciarte: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace")
 - Youtuber Cripto VJ  [Enlace](http://https://www.youtube.com/channel/UC2trT0q9z_qT7WFT-m-O1Ww "Enlace")
+- Concepto Básico [Enlace](https://www.youtube.com/watch?v=oQS3LdrRluo "Enlace")
 
 2. -Discord 
 - Axies infinitive Oficial - [Enlace](https://discord.com/invite/axie "Enlace")
@@ -151,4 +165,17 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 + F
 + G 
 + H 
+
+## Descargas del Apps
+
+- [Android](http://https://axieinfinity.com/downloads/axie-infinity-android-latest.apk "Android")
+
+- [MacOS](https://axieinfinity.com/downloads/axie-infinity-macos-latest.zip "MacOS")
+
+- [Windows](https://axieinfinity.com/downloads/axie-infinity-windows-latest.zip "Windows")
+
+
+## GUIA OFICIAL
+
+- [Enlace](https://axie.substack.com/p/axie-infinity-community-alpha-guide "Enlace")
 
