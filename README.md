@@ -1,4 +1,6 @@
-# 🕹️AXIES🕹️ el Juegaso que te ayuda a ganar dinero fácil
+![Axies](https://i.blogs.es/067b7e/axie-infinity-portada/1366_2000.jpg)
+
+# 🕹️AXIES🕹️ el Juegaso que te ayuda a ganar dinero 
 Bienvenido a este post, donde de manera constante podre ir documentando desde 0 a un nivel 
 considerable todo lo que se deba saber de este Juego que usa tecnología Blockchain para 
 ser manejado de manera monetaria por los jugadores y asi como lo indica ganar dinero con este invento. 
