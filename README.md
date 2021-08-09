@@ -72,9 +72,13 @@ Ejemplo de un Axie Acuatico
 
 ## 1. 3. Que es un **AXIE** (Cartas)
 
->Cada Axie tiene un conjunto de habilidades y estas se activan a traves  de cartas durante tu turno en el juego claro si tienes mana para activarla!!!, cada carta tiene un conjunto de poderes por asi decirlo, las cartas vienen por cada elemento que pertenece a cada Axie. 
+>Cada Axie tiene un conjunto de habilidades y estas se activan a traves  de 
+cartas durante tu turno en el juego claro si tienes mana para activarla!!!, 
+cada carta tiene un conjunto de poderes por asi decirlo, 
+las cartas vienen por cada elemento que pertenece a cada Axie. 
 
-=======
+Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
+
 
 1. 4. Que es un **AXIE** (Habilidad)
 
@@ -82,17 +86,17 @@ Ejemplo de un Axie Acuatico
 dividir en puros e hibridos, todo depende de tu modo de juego, puedes crear un axie puro!!  spoiler!! (son super costoso) o tener un axie decente un semi hibrido (Accesible a nuestro bolsillo) o super hibridos (Super baratos). 
 Estas caracteristicas son: 
 
-- Salud: la vida del axie
-- Moral: la posibilidad de dar golpe crítico
-- Habilidad: mejora en combos/chains
-- Velocidad: el orden de ataque  
+- Salud(Health): la vida del axie
+- Moral(Morale): la posibilidad de dar golpe crítico
+- Habilidad(Skill): mejora en combos/chains
+- Velocidad(Speed): el orden de ataque  
 
 >PD: Estes conjuntos de habilidades no se pueden cambiar vienen de nacimiento con el axie adquirido. 
 **Ejemplo de un Axie Habilidad**
 ![Cuerpo](https://github.com/LeoSan/AxieWTF/blob/main/Cuerpo/EjemploCuerpoHabilidad.png)
 
 
-Podras ver las cartas traducidas [Aqui](https://github.com/LeoSan/AxieWTF/tree/main/Cartas/Cartas%20axie)
+
 
 ## 2.- Como se Juega (Crear Cuentas) 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ Disculpe estamos investigando 
 
