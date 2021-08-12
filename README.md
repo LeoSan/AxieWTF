@@ -32,6 +32,8 @@ de $ 42 millones en ventas en junio de 2021. **Fuente** => Omkar Godbole July 6,
 
 - Podemos **Acceder** a su pagina oficial ->  [axieinfinity](https://axieinfinity.com/)
 
+
+
 ## 1. 1. Que es un Mendigo AXI
 Los Axie son animales virtuales estos se dividen en 9 Clases 
 - Tipo Plantas (Plant) => Es el que tiene mas vida y se usan para recibir los ataques. 
@@ -44,6 +46,8 @@ Los Axie son animales virtuales estos se dividen en 9 Clases
 - Tipo Meca (Mecanico) =>
 - Tipo Oscuridad (Dusk) => 
 
+![Tipos](./TiposAnimalejos/TiposdeAsis.png)
+
 >Nota: Cada Pokemon abro comillas, se deben agrupar en tres con una estrategia de ataque,defensa, soporte, cada Axie tiene 6 habilidades que son partes de su cuerpo, esto le da una habilidad al mendigo abro comillas Pokemon, Ojo no es Pokemon es mucho mejor porque te genera Dinero ya basta de jugar esa mierda llamada Pokemon GO. 
 
 >PD: Cada parte del cuerpo es una habilidad que se ve como una carta y cada carta consume Mana magia por asi decirlo
@@ -52,8 +56,12 @@ Los Axie son animales virtuales estos se dividen en 9 Clases
 
 >PDX3:  Es un juego de estrategia por asi decirlo no mas que el ajedrez pero lo que puedo señalar es que un Axie nunca es mejor que otro ya que depende de la estrategia. 
 
->PDX4:  Tu animalejo solo llega hasta el level 25 de Experiencia, pero en la arena es bueno indicar que solo te cortejan con contricante del mismo nivel. 
+>PDX4:  Tu animalejo solo llega hasta el level 25 de Experiencia, pero en la arena es bueno indicar que solo te cortejan con contricante del mismo nivel.
 
+>PDX5:  Elige sabiamente tu animalejo ya que son debiles contra otros y fuertes contra otros, te dejo una imagen que indica quien es fuerte contra quien 
+
+
+![Elementos](./TiposAnimalejos/PoderElemental.png)
 
 ## 1. 2. Que es un **AXI** (Cuerpo)
 Es importante aclarar que cada axie viene con seis (6) partes principales de su cuerpo, el proposito de esto; es que cada parte tiene una habilidad especial y esta tiene una carta asignada que genera un poder especial para combatir a otros axies. 
