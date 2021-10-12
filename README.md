@@ -113,7 +113,7 @@ Estas caracteristicas son:
 - Paso 3: Debes crear una cuenta binance [Binance](https://www.binance.com/es) 
 
 **Resumen** 
-[Pasos a Seguir - Es una Sugerencia - Recuerda tambien validar los datos ](./info/Pasos_A.png)
+![Pasos a Seguir - Es una Sugerencia - Recuerda tambien validar los datos ](./info/Pasos_A.png)
 
 ## 3.- Como se Juega (Reglas del juego)
 
