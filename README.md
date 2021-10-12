@@ -112,6 +112,8 @@ Estas caracteristicas son:
 - Paso 2: Debes crear una cuenta MetaMask WAllet en este enlace ->[MetaMask](https://www.youtube.com/watch?v=TUJTdGItehg&ab_channel=CriptoEsfera)  🛠️🛠️🛠️🛠️
 - Paso 3: Debes crear una cuenta binance [Binance](https://www.binance.com/es) 
 
+**Resumen** 
+[Pasos a Seguir - Es una Sugerencia - Recuerda tambien validar los datos ](./info/Pasos_A.png)
 
 ## 3.- Como se Juega (Reglas del juego)
 
