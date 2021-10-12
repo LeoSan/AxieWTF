@@ -116,9 +116,13 @@ Estas caracteristicas son:
 ![Pasos a Seguir - Es una Sugerencia - Recuerda tambien validar los datos ](./info/Pasos_A.png)
 
 > Como dato importante, El 50% de los 1,6 millones de usuarios activos diarios de Axie son nuevos en blockchain y cripto. 
+
 > El 25% son nuevos en banca y finanzas básicas. 
+
 > Existen un gran porcentaje de personas que reportan que roban sus Axis, pero esto no se debe a fallos en el juego si no errores que cometieron estas personas.
+
 > Debido a que esto ocurre en el mundo Blockchain cada quien es responsable de sus acciones y las personas de Axie Infinity no tienen la forma de regresártelos si cometes un error.
+
 > Es verdad entrar en este mundo TU eres responsable de tus activos Asi que no estes firmando contratos si desconoces la fuente, aqui mente muy fria. 
 
 ## 3.- Como se Juega (Reglas del juego)
