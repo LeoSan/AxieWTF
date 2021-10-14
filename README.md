@@ -149,6 +149,16 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ```
 - Paso 3: Dependiendo  de tu estrategias te vas apoyar mucho en buscar el tipo de Axie, que tipo de build debe tener Etc. 
 
+
+## Como se Juega (Modo Historia)
+> El modo historia o aventura es una modalidad que ayuda a tus axies a subir de level y obtener SLP Extra, simplemente son batallas ramdow con otro tipos de bestias donde desde aplicar buena estrategia para poder avanzar al siguiente mundo. 
+
+***Tips***
+En este portal podras entrar y validar la información ademas de aprender mas sobre el asunto. 
+
+[Mas sobre el modo aventura](https://axieedge.com/adventure-mode-pve-exp-leveling-guide/)
+
+
 ## 8. Jugar en windows  
 > Para jugar en window solo se necesita descargar el instalador 
 > [Descargar ](https://axieinfinity.com/?download=true)
