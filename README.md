@@ -16,11 +16,12 @@ ser manejado de manera monetaria por los jugadores y asi como lo indica ganar di
 4. Como se Juega (Reglas del juego) 
 5. Como se Juega (Modo Arena) 
 6. Como se Juega (Modo Historia)
-7. Di Di Dinero - Nenes -> Mother Focas 
-8. Si te da Flojera Leer - Videos Explicativos 
-9. Recomendaciones
-10. Beca 🕹️ AXIES Infinity
-11. Grupos y Canales Recomendados
+7. Jugar en Windows 
+8. Di Di Dinero - Nenes -> Mother Focas 
+9. Si te da Flojera Leer - Videos Explicativos 
+10. Recomendaciones
+11. Beca 🕹️ AXIES Infinity
+12. Grupos y Canales Recomendados
 12- Glosario
 
 ## 1.- Qué es **Axies**
@@ -148,7 +149,12 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 ```
 - Paso 3: Dependiendo  de tu estrategias te vas apoyar mucho en buscar el tipo de Axie, que tipo de build debe tener Etc. 
 
-## 7. Di Di Dinero - Nenes -> Mother Focas 
+## 8. Jugar en windows  
+> Para jugar en window solo se necesita descargar el instalador 
+> [Descargar ](https://axieinfinity.com/?download=true)
+
+
+## 9. Di Di Dinero - Nenes -> Mother Focas 
 - Paso 1: Debes comprender que es un SLP (Smooth Love Potion) Esta madre es lo que se vende y te da el dinero que luego lo pasas a tu bitcoin favorito y luego a tu moneda favorita
 - Paso 2: Cada día de Juego en el modo aventura sacas 150 SLP y por cada batalla ganada sacas de 10 a 18 SLP. 
 - Paso 3: La idea general es sacar el mayor SLP posible por día en promedio 300 SLP si te va bien son unos 30 a 45 Dolares Diarios solo jugando. 
@@ -157,10 +163,10 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - Paso 6: Sencillo mi joven padawan, saquemos la cuenta, 300SLP X 0.1996$USD = 59.88$USD Dolares Diarios, Jgando de 3 a 4 horas tranquilo 
 - Paso 7: No esta de mas recordarte todo depende de tus Animalejos armados, Tu estrategia, tu pasión y paciencia, Te recuedo que el mundo del BitCoin es volatil unos dias estas en las nubes y unos dias esta para el perro ASI que toma tus precauciones. 
 
-## 8. Si te da Flojera Leer - Videos Explicativos 
+## 10. Si te da Flojera Leer - Videos Explicativos 
 - Resumen Video que es Axies [Resumen](https://www.youtube.com/watch?v=4VZtDP07rjk)
 
-## 9- Recomendaciones
+## 11. Recomendaciones
 
 - Evitar el uso de multi cuenta: Son varias maneras de tener un baneo, la mas omún es el uso de varias cuenta en un mismo dispositivo.
 - Evitar uso de wifi: ya que haber mas personas dentrode un mismo lugar y saliendo por una misma ip publica, puede que el sistema detecte usode multicuenta. 
@@ -173,9 +179,9 @@ de posibilidades tu sabes, axis de defensa, de ataque, de apoyo, hasta puedes ap
 - Transferir uso de Axies de una cuenta a otra para manipular las ganancias SLP
 - No puedes prestar tu cuenta.
 
-## 10. Beca 🕹️ AXIES Infinity
+## 12. Beca 🕹️ AXIES Infinity
 
-## 11 Grupos y Canales Recomendados
+## 13. Grupos y Canales Recomendados
 
 1.  Canales
 - tutorial para iniciarte: [Enlace](http://https://www.youtube.com/watch?v=4VZtDP07rjk "Enlace")
