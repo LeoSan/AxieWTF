@@ -62,6 +62,7 @@ Los Axie son animales virtuales estos se dividen en 9 Clases
 >PDX5:  Elige sabiamente tu animalejo ya que son debiles contra otros y fuertes contra otros, te dejo una imagen que indica quien es fuerte contra quien 
 
 
+
 ![Elementos](./TiposAnimalejos/PoderElemental.png)
 
 ## 1. 2. Que es un **AXI** (Cuerpo)
@@ -125,6 +126,21 @@ Estas caracteristicas son:
 > Debido a que esto ocurre en el mundo Blockchain cada quien es responsable de sus acciones y las personas de Axie Infinity no tienen la forma de regresártelos si cometes un error.
 
 > Es verdad entrar en este mundo TU eres responsable de tus activos Asi que no estes firmando contratos si desconoces la fuente, aqui mente muy fria. 
+
+>Resumenx2: 
+`
+- Necesitas un equipo de 3 Axies a tu elección para comenzar a jugar.
+
+- Cada día tienes 20 puntos de energía disponibles (o más si tienes más Axies en tu colección). Estos puntos te darán recompensas dependiendo del modo de juego en el que lo uses:
+
+- Si lo usas en el modo Aventura (modo de juego contra la IA), tus Axies recibirán puntos de Experiencia (EXP) e irán subiendo de nivel, haciéndose más fuertes, lo cual te permitirá completar los niveles más rápido y fácil. En los niveles avanzados de la aventura comenzarás a recibir SLP (Smooth Love Potion, el token del juego). Si pierdes una batalla en el modo Aventura NO perderás ese punto de energía.
+
+- Si los usas en el modo Arena (modo competitivo contra otros jugadores), conseguirás SLP con cada victoria. La cantidad de SLP que ganes depende del rango de trofeos en el que estés. Cuanto más alto en rango, más SLP por victoria. Si pierdes una batalla en el modo Arena SI perderás ese punto de energía y además no ganarás SLP.
+
+- Aunque gastes tus 20 energías del día podrás seguir jugando normalmente, aunque ahora no ganarás Experiencia en el modo Aventura, ni ganarás SLP por cada victoria en el modo Arena pero si ganarás Trofeos (la forma como se mide el ranking competitivo. Cuantos más trofeos tiene un jugador, más SLP obtiene por cada victoria), lo cual te permitirá posicionarte en un mejor puesto para comenzar a jugar al día siguiente.
+
+- Un protip a la hora de jugar Arena es aprender a contar las energías de tu rival, así puedes comenzar a identificar cuando tu rival “holdeará” ([Hold = aguantar, mantener, resistir] aguantará el turno sin tirar cartas) y cuando hará un “full attack” (atacar con todo lo que tiene). Los mejores jugadores de Axie tienen memorizada esta habilidad.
+`
 
 ## 3.- Como se Juega (Reglas del juego)
 
